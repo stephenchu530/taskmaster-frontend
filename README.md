@@ -1,12 +1,12 @@
 # Task Master Frontend
 
-This is a Code Fellows project. It is the frontend to the  [Task Master API](https://github.com/stephenchu530/taskmaster)
+This is a Code Fellows project. It is the frontend to the for a site that handles tasks.
 
 ## Link to Deployed Site
 [Task Master Frontend]()
 
 ## Description
-This website provides a UI to interact with the Task Master API backend.
+This website provides a UI to interact with the Task Master API backend located [here](https://github.com/stephenchu530/taskmaster)
 
 You can do the following:
 

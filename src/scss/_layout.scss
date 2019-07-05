@@ -1,0 +1,33 @@
+header {
+  margin:   1.5em;
+  padding:  1.5em;
+  background-color: $BG_COLOR_STD;
+}
+
+#main {
+  margin:   1.5em;
+  padding:  1.5em;
+}
+
+#task {
+  margin:   .5em;
+  padding:  .5em;
+}
+
+#task_title {
+  display:  flex;
+  flex-direction:   row;
+  justify-content:  space-between;
+}
+
+#task_description {
+  display:  flex;
+  flex-direction:   row;
+  justify-content:  space-between;
+}
+
+footer {
+  margin: 1.5em;
+  padding: 1.5em;
+  background-color: $BG_COLOR_STD;
+}
