@@ -1,11 +1,13 @@
 import React from 'react';
 
+import TaskList from './tasklist.jsx';
+
 class Main extends React.Component {
   render() {
     return (
-      <>
-        <p>Main Space</p>
-      </>
+      <div id="main">
+        <TaskList />
+      </div>
     )
   }
 }
