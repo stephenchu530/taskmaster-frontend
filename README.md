@@ -5,6 +5,8 @@ This is a Code Fellows project. It is the frontend to the for a site that handle
 ## Link to Deployed Site
 [Task Master Frontend](http://stephenc-task-master.s3-website-us-west-2.amazonaws.com/)
 
+![Awesome Site](awesomesite.png)
+
 ## Description
 This website provides a UI to interact with the Task Master API backend located [here](https://github.com/stephenchu530/taskmaster)
 
