@@ -15,6 +15,7 @@ You can do the following:
 * View all tasks by all users (default view)
   * Filter the view based on an assigned user
   * Filter the view based on the status of the task (`Available`, `Assigned`, `Accepted`, or `Finished`)
+* Add and upload an image related to the task
 * Create a new task
   * Must have a `title`
   * Must have a `description`
