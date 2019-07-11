@@ -24,7 +24,7 @@ function Task() {
     <ul>
       {tasks.map( (task) =>
         <li id="task" key={task.id}>
-          <img src={task.thumbUrl} alt="test" height="50px" ></img>
+                  <a href={task.imageUrl} ><img src={task.thumbUrl} alt="test" height="50px" ></img></a>
           <div id="task_title">
             <span><b>Title: </b>{task.title}</span>
             <span><b>Assigned: </b>
